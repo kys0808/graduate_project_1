@@ -1,0 +1,8 @@
+# Default ignored files
+.idea/*
+.idea/workspace.xml
+yolo/*.h5
+yolo/model_data/*.h5
+yolo/speech/*.mp3
+yolo/image/bollard
+yolo.h5
